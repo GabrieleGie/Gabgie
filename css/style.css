@@ -257,7 +257,7 @@ a, a:hover, a:active, a:focus {
 
 body {
     margin: 0;
-    background-color: #ed804a;
+    background-color: #ffffff;
     color: #1f1f1f;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -1049,7 +1049,7 @@ h6 {
 }
 
 .banner_slider .slick-1, .banner_slider .slick-2, .banner_slider .slick-3, .banner_slider .slick-4 {
-    background-image: url("../images/hero-section-bg.jpg");
+    background-image: url("../images/photobackground2.jpg");
     background-size: cover;
     background-position: top right;
 }
@@ -1084,7 +1084,7 @@ h6 {
 }
 
 .banner_text h1 span {
-    color: #ed804a;
+    color: #45959a;
 }
 
 .banner_text p {
@@ -1108,8 +1108,8 @@ h6 {
 }
 
 .banner_btns .filled-btn {
-    background-color: #ed804a;
-    border-color: #ed804a;
+     background-color: #45969a;
+    border: 3px solid #45969a;
     padding: 13.5px 41px;
 }
 
