@@ -969,18 +969,19 @@ h6 {
 
 .menuBar .navbar-nav>li > a:after,
 .menuBar .navbar-nav>li.active > a:after {
-    background-color: #ed804a;
+    background-color: #45959a;
     bottom: 0;
     left: 0;
     right: 0;
     content: "";
     display: block;
-    height: 1px;
+    height: 18px;
     margin: auto 0;
     position: absolute;
     top: 0;
     transition: width 1s ease-in-out;
     width: 0%;
+  opacity:0.4;
 }
 
 .menuBar .navbar-nav>li > a:hover:after,
