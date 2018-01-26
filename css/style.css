@@ -1050,7 +1050,7 @@ h6 {
 }
 
 .banner_slider .slick-1, .banner_slider .slick-2, .banner_slider .slick-3, .banner_slider .slick-4 {
-    background-image: url("../images/photobackground2.jpg");
+    background-image: url("../images/bg.jpg");
     background-size: cover;
     background-position: top right;
 }
