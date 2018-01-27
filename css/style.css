@@ -2283,8 +2283,8 @@ h6 {
 	padding: 0;
 	background-color: #45959a;
 	border-radius: 100%;
-	-webkit-animation: sk-scaleout 2.0s infinite ease-in-out;
-	animation: sk-scaleout 2.0s infinite ease-in-out;
+	-webkit-animation: sk-scaleout 10.0s infinite ease-in-out;
+	animation: sk-scaleout 10.0s infinite ease-in-out;
 }
 @-webkit-keyframes sk-scaleout {
 	0% {
